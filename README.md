@@ -9,4 +9,4 @@
 
 [Тест-кейсы генератор паролей / Тест-кейсы hh.ru](https://docs.google.com/spreadsheets/d/1JTO_cAKhlOH5nLGSIjRzvg2fMYmBKjnv/edit?usp=sharing&ouid=112681048725283602554&rtpof=true&sd=true)
 
-[Тест-план](https://docs.google.com/document/d/1McHQyBIy573LE-Gf0O4XJcGtJwlPjqX3/edit?usp=sharing&ouid=112681048725283602554&rtpof=true&sd=true)https://docs.google.com/document/d/1McHQyBIy573LE-Gf0O4XJcGtJwlPjqX3/edit?usp=sharing&ouid=112681048725283602554&rtpof=true&sd=true)
+[Тест-план](https://docs.google.com/document/d/1McHQyBIy573LE-Gf0O4XJcGtJwlPjqX3/edit?usp=sharing&ouid=112681048725283602554&rtpof=true&sd=true)
